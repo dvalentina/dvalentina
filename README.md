@@ -12,27 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/dvalentina/" target="_blank" rel="noreferrer" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://t.me/danilova_v_v" target="_blank" rel="noreferrer" >
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://codepen.io/dvalentina" target="_blank" rel="noreferrer" >
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
-</a>
-<a href="mailto:danilova.vv@phystech.edu" target="_blank" rel="noreferrer" >
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="http://dvalentina.me/" target="_blank" rel="noreferrer" >
-  <img src="https://img.shields.io/badge/website-red?style=for-the-badge" alt="website" />
-</a>
+## :wave: Hello! I'm a React Frontend Developer based in Yerevan, Armenia
 
+### :speech_balloon: Contact me:
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=@dvalentina&labelColor=0077B5&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvalentina/)  
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@danilova_v_v&labelColor=2CA5E0&color=grey&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danilova_v_v)  
+[![Email](https://img.shields.io/static/v1?label=Email&message=danilova.vv@phystech.edu&labelColor=D14836&color=grey&style=for-the-badge&logoColor=white)](mailto:danilova.vv@phystech.edu) 
+### :eyes: Look at my work: 
+[![Codepen](https://img.shields.io/static/v1?label=Codepen&message=@dvalentina&labelColor=black&color=grey&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dvalentina)  
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=@dvalentina&labelColor=black&color=grey&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvalentina)  
+[![Website](https://img.shields.io/static/v1?label=Website&message=dvalentina.me&labelColor=red&color=grey&style=for-the-badge&logoColor=white)](https://dvalentina.me)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvalentina&hide=perl&layout=compact&exclude_repo=2019-2-Track-Backend-V-Danilova,tank-software-design,backend_exam_2020,homework_cpp)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+### 🚀 &nbsp;Some Tools I Have Used and Learned
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

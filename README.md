@@ -1,30 +1,34 @@
-<!--
-**dvalentina/dvalentina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :wave: Hello! I'm a React Frontend Developer based in Yerevan, Armenia
 
-Here are some ideas to get you started:
+## :white_check_mark: [Todos](https://github.com/dvalentina/todos)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## :wave: Hello! I'm a React Frontend Developer based in Yerevan, Armenia
+A simple todo application made as a test assignment for a Junior Frontend developer position. 
+Technologies: React, TypeScript, styled-components, React Testing Library
+
+![Todos demo](https://github.com/dvalentina/todos/blob/84856f469001b2cb55d7e23f2ab9f378479f890d/screencast.gif?raw=true)
+
+> Project's repository: https://github.com/dvalentina/todos 
+
+## :lock: [Protected Dashboard](https://github.com/dvalentina/protected-dashboard)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+A SPA with JWT Token auth and mocked backend API made as a test assignment for a JS developer position \
+Technologies: JWT Token, React, TypeScript, Material UI, json-server
+
+![Protected Dashboard demo](https://github.com/dvalentina/protected-dashboard/blob/d389ac41d65e48c54b083c0e8adab00937a07851/demo.gif?raw=true)
+
+> Project's repository: https://github.com/dvalentina/protected-dashboard
 
 ### :speech_balloon: Contact me:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=@dvalentina&labelColor=0077B5&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvalentina/)  
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@danilova_v_v&labelColor=2CA5E0&color=grey&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danilova_v_v)  
 [![Email](https://img.shields.io/static/v1?label=Email&message=danilova.vv@phystech.edu&labelColor=D14836&color=grey&style=for-the-badge&logoColor=white)](mailto:danilova.vv@phystech.edu) 
-
-### :eyes: Look at my work: 
-
-[![Codepen](https://img.shields.io/static/v1?label=Codepen&message=@dvalentina&labelColor=black&color=grey&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dvalentina)  
-[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=@dvalentina&labelColor=black&color=grey&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvalentina)  
-[![Website](https://img.shields.io/static/v1?label=Website&message=dvalentina.me&labelColor=red&color=grey&style=for-the-badge&logoColor=white)](https://dvalentina.me)  
 
 ### :computer: Some tools I have experience with:
 

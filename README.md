@@ -6,10 +6,11 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 A simple todo application made as a test assignment for a Junior Frontend developer position. 
-Technologies: React, TypeScript, styled-components, React Testing Library
+
 
 ![Todos demo](https://github.com/dvalentina/todos/blob/84856f469001b2cb55d7e23f2ab9f378479f890d/screencast.gif?raw=true)
 
+> Read more in the README!\
 > Project's repository: https://github.com/dvalentina/todos 
 
 ## :lock: [Protected Dashboard](https://github.com/dvalentina/protected-dashboard)
@@ -17,12 +18,24 @@ Technologies: React, TypeScript, styled-components, React Testing Library
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-A SPA with JWT Token auth and mocked backend API made as a test assignment for a JS developer position \
-Technologies: JWT Token, React, TypeScript, Material UI, json-server
+A SPA with JWT Token auth and mocked backend API (json-server) made as a test assignment for a JS developer position.
 
 ![Protected Dashboard demo](https://github.com/dvalentina/protected-dashboard/blob/d389ac41d65e48c54b083c0e8adab00937a07851/demo.gif?raw=true)
 
+> Read more in the README!\
 > Project's repository: https://github.com/dvalentina/protected-dashboard
+
+## :computer: [Gold Token](https://dvalentina.github.io/gold-token/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+A SPA project developed to study ERC-20 tokens and the integration of front-end part of the application with web3 wallets and contracts.
+
+![Gold Token interface demo](https://github.com/dvalentina/gold-token/blob/main/demo/interface.gif?raw=true)
+
+> Read more in the README!\
+> Project's repository: https://github.com/dvalentina/gold-token
 
 ### :speech_balloon: Contact me:
 

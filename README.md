@@ -1,31 +1,13 @@
 ### :wave: Hello! I'm a React Frontend Developer based in Yerevan, Armenia
 
-## :white_check_mark: [Todos](https://github.com/dvalentina/todos)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+I am proficient in **React**, **JavaScript/TypeScript**, and familiar with different approaches to styling: CSS-in-JS (**styled-components**), preprocessors (**Less**, **SASS/SCSS**), UI libraries (**Material UI**, **Ant Design**), **CSS Modules**. I also have experience in writing tests with **React Testing Library (Jest)**.
 
-A simple todo application made as a test assignment for a Junior Frontend developer position. 
+Right now I am actively learning **Next.js** framework and **Storybook**.
 
-
-![Todos demo](https://github.com/dvalentina/todos/blob/84856f469001b2cb55d7e23f2ab9f378479f890d/screencast.gif?raw=true)
-
-> Read more in the README!\
-> Project's repository: https://github.com/dvalentina/todos 
-
-## :lock: [Protected Dashboard](https://github.com/dvalentina/protected-dashboard)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-A SPA with JWT Token auth and mocked backend API (json-server) made as a test assignment for a JS developer position.
-
-![Protected Dashboard demo](https://github.com/dvalentina/protected-dashboard/blob/d389ac41d65e48c54b083c0e8adab00937a07851/demo.gif?raw=true)
-
-> Read more in the README!\
-> Project's repository: https://github.com/dvalentina/protected-dashboard
+Take a look at my projects!
 
 ## :computer: [Gold Token](https://dvalentina.github.io/gold-token/)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -37,11 +19,53 @@ A SPA project developed to study ERC-20 tokens and the integration of front-end 
 > Read more in the README!\
 > Project's repository: https://github.com/dvalentina/gold-token
 
+## :arrows_counterclockwise: [Crypto Converter&Watchlist](https://github.com/dvalentina/crypto-converter-and-watchlist)
+
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+This web application accumulates different information about crypto currencies using CryptoRank API.
+
+![Converter&Watchlist demo](https://github.com/dvalentina/crypto-converter-and-watchlist/blob/main/screencast.gif?raw=true)
+
+> Read more in the README!\
+> Project's repository: https://github.com/dvalentina/crypto-converter-and-watchlist
+
+## :white_check_mark: [Todos](https://github.com/dvalentina/todos)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+A simple todo application made as a test assignment for a Junior Frontend developer position.
+
+![Todos demo](https://github.com/dvalentina/todos/blob/84856f469001b2cb55d7e23f2ab9f378479f890d/screencast.gif?raw=true)
+
+> Read more in the README!\
+> Project's repository: https://github.com/dvalentina/todos
+
+## :lock: [Protected Dashboard](https://github.com/dvalentina/protected-dashboard)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+A SPA with JWT Token auth and mocked backend API (json-server) made as a test assignment for a JS developer position.
+
+![Protected Dashboard demo](https://github.com/dvalentina/protected-dashboard/blob/d389ac41d65e48c54b083c0e8adab00937a07851/demo.gif?raw=true)
+
+> Read more in the README!\
+> Project's repository: https://github.com/dvalentina/protected-dashboard
+
 ### :speech_balloon: Contact me:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=@dvalentina&labelColor=0077B5&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvalentina/)  
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@danilova_v_v&labelColor=2CA5E0&color=grey&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danilova_v_v)  
-[![Email](https://img.shields.io/static/v1?label=Email&message=danilova.vv@phystech.edu&labelColor=D14836&color=grey&style=for-the-badge&logoColor=white)](mailto:danilova.vv@phystech.edu) 
+[![Email](https://img.shields.io/static/v1?label=Email&message=danilova.vv@phystech.edu&labelColor=D14836&color=grey&style=for-the-badge&logoColor=white)](mailto:danilova.vv@phystech.edu)
 
 ### :computer: Some tools I have experience with:
 
